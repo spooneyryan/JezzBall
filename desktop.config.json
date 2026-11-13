@@ -1,0 +1,20 @@
+{
+  "name": "JezzBall",
+  "version": "1.0.0",
+  "identifier": "com.jezzball.desktop",
+  "mode": "static",
+  "port": 35800,
+  "width": 1280,
+  "height": 800,
+  "rememberWindowState": true,
+  "frameless": false,
+  "hamburger": true,
+  "hideMenuBar": false,
+  "makeInstaller": false,
+  "menu": [
+    {
+      "label": "Exit",
+      "action": "quit"
+    }
+  ]
+}
